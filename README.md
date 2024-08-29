@@ -13,3 +13,7 @@ Koleksi ini berisi tes otomatisasi API yang dirancang untuk memvalidasi fungsi d
 - POST: Membuat pengguna baru dengan peran sebagai pemimpin
 - DELETE: Menghapus pengguna dengan ID tertentu
 - PUT: Memperbarui pekerjaan pengguna menjadi 'zion resident'
+
+## Test Results
+
+
